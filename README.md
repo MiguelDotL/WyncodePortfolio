@@ -1,1 +1,1 @@
-My Portfolio PRoject for Wyncode
+My Portfolio Project for Wyncode
